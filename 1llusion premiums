@@ -2,5 +2,6 @@ local PremiumBuyers = {
     134254680, -- stefan
     3162758638, -- kyu
     4727538226, -- obesekid
+    825416463, -- FTP_WAR
 }
 return PremiumBuyers
