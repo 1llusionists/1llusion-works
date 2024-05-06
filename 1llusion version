@@ -1,3 +1,0 @@
-local Version = "v 3.3"
-
-return Version
