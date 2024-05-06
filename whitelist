@@ -2,9 +2,10 @@ userids = {
 [5010380950] = true,
 [4727538226] = true,
 [2969425763] = true,
-[224423982] = true,
-[3051787821] = true,
-[5582093940] = true,
-[3989535546] = true
+[224423982] = true, -- hiro
+[3051787821] = true, -- hiro
+[5582093940] = true, -- hiro
+[3989535546] = true, -- hiro
+[146790397] = true -- Hitmancam1811
 }
 return userids
