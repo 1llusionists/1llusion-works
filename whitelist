@@ -6,6 +6,9 @@ userids = {
 [3051787821] = true, -- hiro
 [5582093940] = true, -- hiro
 [3989535546] = true, -- hiro
+[5568349659] = true, -- blaxergrinder1
+[3386050679] = true, -- IIcyLovesHisBed
+[5628064866] = true, -- blaxergrinder3
 [146790397] = true -- Hitmancam1811
 }
 return userids
